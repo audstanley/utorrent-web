@@ -6,3 +6,4 @@ This module will log into your web API with the username and password you provid
 var utorrent = require('utorrent-web');
 utorrent('localhost', '8080', 'admin', 'password', 'http://torrents.linuxmint.com/torrents/linuxmint-17.3-cinnamon-64bit.iso.torrent');
 ```
+link('https://www.npmjs.com/package/utorrent-web')Link to npm package.
