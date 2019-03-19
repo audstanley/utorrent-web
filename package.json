@@ -4,7 +4,7 @@
   "description": "Send utorrent links over to the utorrent web API with five variables: host, port, user, password, and link.  This will take magnetic links, and .torrent links and will add the link into your running utorrent web api.",
   "main": "index.js",
   "dependencies": {
-    "request": "2.67.0"
+    "request": ">=2.68.0"
     },
   "scripts": {
     "test": "example.js"
